@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<ctype.h>
-
+// do it phython
 int main(int argc, string argv[])
 {
     if(argc!=2)
